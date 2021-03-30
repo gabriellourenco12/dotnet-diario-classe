@@ -1,0 +1,16 @@
+C:\Workspace\CSharp\Revisao\bin\Debug\net5.0\Diario_classe.exe
+C:\Workspace\CSharp\Revisao\bin\Debug\net5.0\Diario_classe.deps.json
+C:\Workspace\CSharp\Revisao\bin\Debug\net5.0\Diario_classe.runtimeconfig.json
+C:\Workspace\CSharp\Revisao\bin\Debug\net5.0\Diario_classe.runtimeconfig.dev.json
+C:\Workspace\CSharp\Revisao\bin\Debug\net5.0\Diario_classe.dll
+C:\Workspace\CSharp\Revisao\bin\Debug\net5.0\ref\Diario_classe.dll
+C:\Workspace\CSharp\Revisao\bin\Debug\net5.0\Diario_classe.pdb
+C:\Workspace\CSharp\Revisao\obj\Debug\net5.0\Diario_classe.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Revisao\obj\Debug\net5.0\Diario_classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp\Revisao\obj\Debug\net5.0\Diario_classe.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Revisao\obj\Debug\net5.0\Diario_classe.AssemblyInfo.cs
+C:\Workspace\CSharp\Revisao\obj\Debug\net5.0\Diario_classe.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Revisao\obj\Debug\net5.0\Diario_classe.dll
+C:\Workspace\CSharp\Revisao\obj\Debug\net5.0\ref\Diario_classe.dll
+C:\Workspace\CSharp\Revisao\obj\Debug\net5.0\Diario_classe.pdb
+C:\Workspace\CSharp\Revisao\obj\Debug\net5.0\Diario_classe.genruntimeconfig.cache
